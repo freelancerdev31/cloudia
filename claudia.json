@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "cloudia-executor",
+    "name": "cloudia",
+    "region": "us-east-2"
+  },
+  "api": {
+    "id": "upy8trfyk9"
+  }
+}
